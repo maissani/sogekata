@@ -1,4 +1,5 @@
 # SoGe Kata
+[![CircleCI](https://circleci.com/gh/maissani/sogekata.svg?style=svg)](https://circleci.com/gh/maissani/sogekata)
 
 Javascript Kata destiné a émuler le retrait d'argent d un compte existant
 Pour réaliser ce kata les outils suivant ont ete utilisés:
