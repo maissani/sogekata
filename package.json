@@ -1,0 +1,22 @@
+{
+  "name": "sogekata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js --format summary"
+  },
+  "keywords": [
+    "Kata",
+    "BDD",
+    "Societe",
+    "Generale"
+  ],
+  "author": "Mehdi Aissani <mehdi.aissani@js-republic.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "cucumber": "^4.2.1",
+    "eslint": "^4.19.1"
+  }
+}
