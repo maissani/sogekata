@@ -22,7 +22,7 @@ Feature: Withdraw from account
 
 ## Principe respectés
 Voici les principes qui ont été respectés: 
-- Nomage des classes
+- Nommage des classes
 - Imutabilité
 - BDD
 
