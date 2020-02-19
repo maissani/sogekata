@@ -16,7 +16,7 @@
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.1.2",
-    "cucumber": "^5.0.0",
-    "eslint": "^4.19.1"
+    "eslint": "^5.0.0",
+    "cucumber": "^5.0.0"
   }
 }
